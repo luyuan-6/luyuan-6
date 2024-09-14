@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java.
 - 📫 How to reach me: 1327448613@qq.com
-- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_20770569?type=blog)
+- 😄 Read more about my 🌐CSDN: [博客](https://blog.csdn.net/qq_20770569?type=blog)
 - 💻 projet [codepark](https://github.com/luyuan-6/codepark-backend)
 
 ![](https://github-readme-stats.vercel.app/api?username=luyuan-6&show_icons=true&theme=transparent)
