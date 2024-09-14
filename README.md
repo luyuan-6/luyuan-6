@@ -1,4 +1,4 @@
-# Hi there 👋,I'm 路远.🤖
+# Hi there 👋,I'm 路远🤖
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
