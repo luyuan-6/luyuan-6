@@ -1,4 +1,4 @@
-# Hi there 👋,I'm 路远.
+# Hi there 👋,I'm 路远.🤖
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -6,6 +6,8 @@
 - 📫 How to reach me: 1327448613@qq.com
 - 😄 Read more about my 🌐 [CSDN博客](https://blog.csdn.net/qq_20770569?type=blog) 📛 [gitee](https://gitee.com/li-hongda-6)
 - 🚀 projet [codepark](https://github.com/luyuan-6/codepark-backend)
+
+ # 今年汇总 ✨
 
 ![](https://github-readme-stats.vercel.app/api?username=luyuan-6&show_icons=true&theme=transparent)
 
